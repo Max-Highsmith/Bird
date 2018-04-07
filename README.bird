@@ -1,0 +1,10 @@
+This is a fork of pjreddies Darknet for the purposes of exploration of the Little Birds Dataset in Aerial Imagery (LBDAI)
+
+
+
+birdSnake    = Directory of python scripts for running and training data
+birdData     = Labeled Bird data
+birdCfg      = cfgs files for training, validation data, and backup storage
+birdNetworks = cfg files for yolo networks
+birdResults  = Predicting boxes for different networks on different data sets
+birdBackup   = Weights of networks 

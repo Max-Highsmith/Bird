@@ -1,0 +1,6 @@
+classes= 1
+train  = birdData/easytrain.txt
+valid  = birdData/easyval.txt
+names = data/bird.names
+backup = backup/easy
+

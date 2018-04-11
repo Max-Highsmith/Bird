@@ -1,0 +1,6 @@
+classes= 1
+train  = birdData/hardtrain.txt
+valid  = birdData/hardval.txt
+names = data/bird.names
+backup = backup/hard/yolo2
+
